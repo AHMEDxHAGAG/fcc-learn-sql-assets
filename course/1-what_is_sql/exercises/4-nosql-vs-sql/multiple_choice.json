@@ -1,7 +1,5 @@
 {
   "question": "Each NoSQL Database tends to use ____ query language(s)",
-  "answers": [
-    "different",
-    "the same"
-  ]
+  "answers": ["different", "the same"],
+  "answer": "different"
 }
