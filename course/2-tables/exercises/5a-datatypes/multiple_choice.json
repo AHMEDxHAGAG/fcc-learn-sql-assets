@@ -1,7 +1,5 @@
 {
   "question": "All SQL databases support the same datatypes",
-  "answers": [
-    "False",
-    "True"
-  ]
+  "answers": ["False", "True"],
+  "answer": "False"
 }
