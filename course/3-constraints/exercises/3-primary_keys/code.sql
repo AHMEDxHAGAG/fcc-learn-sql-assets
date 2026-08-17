@@ -7,10 +7,10 @@ INSERT into users (
     is_admin
 ) values (
     0,
-    "Rudolf",
+    'Rudolf',
     33,
-    "rudolf1234",
-    "thisisnotsecure",
+    'rudolf1234',
+    'thisisnotsecure',
     false
 );
 
@@ -22,11 +22,11 @@ INSERT into users (
     password,
     is_admin
 ) values (
-    0,
-    "Jerry",
+    1,
+    'Jerry',
     25,
-    "jerrysmith",
-    "mypasswordis1234",
+    'jerrysmith',
+    'mypasswordis1234',
     true
 );
 

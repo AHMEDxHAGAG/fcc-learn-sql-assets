@@ -4,8 +4,8 @@ INSERT into users (
     country_code
 ) values (
     0,
-    "Jerry",
-    "US"
+    'Jerry',
+    'US'
 );
 
 INSERT into users (
@@ -14,8 +14,8 @@ INSERT into users (
     country_code
 ) values (
     1,
-    "Amit",
-    "IND"
+    'Amit',
+    'IN'
 );
 
 /* -- DON'T TOUCH BELOW THIS LINE -- */

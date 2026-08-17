@@ -18,14 +18,14 @@ INSERT into countries (
     code,
     name
 ) values (
-    "US",
-    "United States of America"
+    'US',
+    'United States of America'
 );
 
 INSERT into countries (
     code,
     name
 ) values (
-    "IN",
-    "India"
+    'IN',
+    'India'
 );

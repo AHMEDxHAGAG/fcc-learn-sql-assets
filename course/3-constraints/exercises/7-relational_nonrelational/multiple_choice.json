@@ -1,7 +1,5 @@
 {
   "question": "Relational databases typically ____ duplicate data, while non-relational databases more often ____ duplicate data.",
-  "answers": [
-    "do not, do",
-    "do, do not"
-  ]
+  "answers": ["do not, do", "do, do not"],
+  "answer": "do not, do"
 }
