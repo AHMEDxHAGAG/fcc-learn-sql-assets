@@ -1,9 +1,5 @@
 {
   "question": "The HTTP Method that generally corresponds with a SQL SELECT statement is an HTTP",
-  "answers": [
-    "GET",
-    "PUT",
-    "PATCH",
-    "UPDATE"
-  ]
+  "answers": ["GET", "PUT", "PATCH", "UPDATE"],
+  "answer": "GET"
 }

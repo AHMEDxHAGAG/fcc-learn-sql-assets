@@ -1,7 +1,5 @@
 {
   "question": "A front-end typically communicates with a database directly to add new records.",
-  "answers": [
-    "False",
-    "True"
-  ]
+  "answers": ["False", "True"],
+  "answer": "False"
 }
