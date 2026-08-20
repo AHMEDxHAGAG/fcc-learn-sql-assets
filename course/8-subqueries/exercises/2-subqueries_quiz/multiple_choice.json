@@ -4,5 +4,6 @@
     "... allows you to query the result set of a nested query",
     "... creates a temporary table",
     "... is a technique for speeding up your database"
-  ]
+  ],
+  "answer": "... allows you to query the result set of a nested query"
 }
