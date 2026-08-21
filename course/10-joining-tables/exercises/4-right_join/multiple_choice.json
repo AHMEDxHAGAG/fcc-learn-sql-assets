@@ -5,5 +5,6 @@
     "giving up and drawing Venn diagrams",
     "changing the field the tables are joined on",
     "grouping the table by a different field"
-  ]
+  ],
+  "answer": "flipping the position of the tables in the join statement"
 }

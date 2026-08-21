@@ -4,5 +4,6 @@
     "LEFT JOIN",
     "INNER JOIN",
     "FULL JOIN"
-  ]
+  ],
+  "answer": "LEFT JOIN"
 }
