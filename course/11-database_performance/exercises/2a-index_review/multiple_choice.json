@@ -5,5 +5,6 @@
     "All columns",
     "Only primary keys",
     "Only foreign keys"
-  ]
+  ],
+  "answer": "Columns that you frequently perform lookups on"
 }
