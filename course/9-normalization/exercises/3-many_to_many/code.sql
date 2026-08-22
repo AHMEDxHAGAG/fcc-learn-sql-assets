@@ -11,12 +11,20 @@ CREATE TABLE countries (
   id INTEGER PRIMARY KEY,
   country_code TEXT,
   name TEXT,
-  user_id INTEGER,
   FOREIGN KEY (country_code)
   REFERENCES users (id)
 );
 
--- Don't touch below this line --
+CREATE TABLE users_countries(
+    country_id INTEGER,
+    user_id INTEGER,
+    UNIQUE(country_id, user_id),
+    foreign key(country_id)
+    references countries(id),
+    foreign key(user_id)
+    references users(id)
+);
+
 
 INSERT INTO users(name, age, username, password, is_admin)
 VALUES ('David', 34, 'david.lang', 'secure1234', false);
